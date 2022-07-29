@@ -167,6 +167,7 @@ body{
         width: 60%;
         margin:auto;
     }
+}
 @media only screen and (min-width:1500px){
     #meals{
         width: 40%;
@@ -176,7 +177,7 @@ body{
         width: 40%;
         margin:auto;
     }
-    
+}
     
     @media only screen and (min-width:750px){
         .body-home{
